@@ -1,7 +1,13 @@
-import Website from "./website";
+import { Toaster } from "react-hot-toast";
+import AppRoutes from "./app-routes";
 
 function App() {
-  return <Website />;
+  return (
+    <>
+      <Toaster />
+      <AppRoutes />;
+    </>
+  );
 }
 
 export default App;

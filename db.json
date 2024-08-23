@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "This is first post",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "This is third post",
+      "views": 150
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "employee one",
+      "age": 15,
+      "salary": 15000
+    }
+  ],
+  "users": [
+    {
+      "id": "5f74",
+      "name": "arslan ali",
+      "email": "jane@gmail.com",
+      "password": "qwerty"
+    }
+  ]
+}
